@@ -11,6 +11,9 @@ module.exports = {
             javascriptEnabled: true,
           },
         },
+        postcssLoaderOptions: {
+          plugins: [require('tailwindcss'), require('autoprefixer')],
+        },
       },
     },
   ],
