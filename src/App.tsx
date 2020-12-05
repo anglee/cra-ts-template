@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) Ang Lee 2020 (http://anglee.info/)
+ **/
+
 import { Button } from 'antd';
 import React from 'react';
 import './App.less';
