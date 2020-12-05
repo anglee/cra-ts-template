@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) Ang Lee 2020 (http://anglee.info/)
+ **/
+
 const CracoLessPlugin = require('craco-less');
 
 module.exports = {
