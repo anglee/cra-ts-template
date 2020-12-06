@@ -1,0 +1,11 @@
+.DataCategories .anticon svg {
+  vertical-align: baseline;
+}
+
+.DataCategories a {
+  user-select: none;
+}
+
+.DataCategories .DataCategories-l1-title a {
+  @apply text-gray-600;
+}
